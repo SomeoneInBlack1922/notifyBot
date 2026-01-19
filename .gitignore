@@ -1,0 +1,6 @@
+env.sh
+target/
+last_expected_update.txt
+*.jar
+.vscode/
+unziped/

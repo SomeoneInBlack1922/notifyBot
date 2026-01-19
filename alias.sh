@@ -1,0 +1,1 @@
+alias jrun='java -jar ./target/notify-0.0.1-SNAPSHOT.jar'
