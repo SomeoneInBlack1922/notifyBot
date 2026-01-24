@@ -61,6 +61,7 @@ public class Entry{
             return;
         }
 
+        //Me showing that you can do the thing spring does with simple struct you pass around manually
         Container container = new Container(arguments, executorCreator, httpClientCreator, database);
 
         Daos daos = new Daos(container);
